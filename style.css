@@ -1,0 +1,26 @@
+body{
+  border-style: double;
+  background-color:teal;
+}
+h1{
+  border-style:solid;
+  color: salmon;
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+h2{
+  color:wheat;
+  text-align: center;
+  font-size: 50px;
+}
+h3{
+  color:wheat;
+ 
+}
+.right{
+  text-align: center;
+}
+img{
+  size: 100px;
+}
